@@ -9,4 +9,5 @@ import "../styles/index.css";
 import Home from "./component/home.jsx";
 
 //render your react application
+//            qué dibujaré, ¿Donde?
 ReactDOM.render(<Home />, document.querySelector("#app"));
