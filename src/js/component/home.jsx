@@ -1,5 +1,5 @@
 import React from "react";
-import Navbar from "./navbar";
+import Navbar from "./navbar.jsx";
 import Jumbotron from "./jumbotron.jsx";
 import Cards from "./cards.jsx";
 
@@ -9,7 +9,7 @@ const Home = () => {
 		<div className="text-center">
 			<Navbar/>
 			<Jumbotron/>
-			<Cards/>MMM
+			<Cards/>
 		</div>
 	);
 };
